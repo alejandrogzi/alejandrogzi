@@ -5,6 +5,6 @@
   <samp>
     <a href="https://alejandrogzi.github.io/">me</a> .
     <a href="mailto:alejandrxgzi@gmail">email</a> .
-    <a href="https://alejandrogzi.github.io/pages/blog.html">blog</a> .
+    <a href="https://alejandrogzi.github.io/pages/blog.html">blog</a>
   </samp>
 </p>
